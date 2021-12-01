@@ -7,7 +7,7 @@ Ahora tenemos que instalar la dependencia de nuestro primer paquete para este pr
 1. Ejecuta el siguiente comando en tu terminal para instalar el paquete de Flask:
 
 ```bash
-$ pipenv install flask
+$ x
 ```
 
 ## Resultado esperado:
